@@ -8,9 +8,20 @@ It includes login, adding products to the cart, verifying cart contents, and log
 ## 📂 Project Structure
 
 ```
-📁 your-folder/
-├── saucedemo.cart-flow.spec.js   # Playwright test script
-└── README.md                     # This file
+📁 root/
+├── .github/
+├── e2e/
+│ └── saucedemo.cart-flow.spec.js # ✅ Your Playwright test script
+├── node_modules/
+├── playwright-report/
+├── test-results/
+├── tests/
+├── tests-examples/
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── playwright.config.ts
+└── README.md 
 ```
 
 ---
@@ -109,4 +120,4 @@ Perfectly meets your assignment requirements! 🎯
 
 ## 📬 Author
 
-*Made with ❤️ by [Your Name Here]*
+*Made with ❤️ by Abdullah Jamal Alharriem*
