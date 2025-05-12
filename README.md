@@ -96,15 +96,6 @@ npx playwright test
 
 ---
 
-## 📸 Optional: Run with UI (for demo)
-
-If you want to **see the browser**, edit your script like this:
-
-```js
-const browser = await chromium.launch({ headless: false });
-```
-
----
 
 ## ✅ Homework Done ✔️
 
